@@ -1,3 +1,3 @@
 # StockIng
-# Stalk your Stocks, not your Ex ;) <br> Stock Prices at a Glance 
+# Stalk your Stocks, not your Ex ;) <br> <br> Stock Prices at a Glance 
 
