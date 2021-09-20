@@ -153,7 +153,8 @@ h4{
 }
 .x{
     border: none;
-    background-color: none;
+    background-color: rgb(255,99,71);
+border-radius : 30%;
     color:#023052;
     margin-left: 25rem;
     cursor: pointer;
